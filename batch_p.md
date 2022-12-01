@@ -7,3 +7,5 @@ Develop code for the following purposes:
 • To read semi-structured data (JSON, CSV, and parquet) using standard libraries. 
 
 Example of artifacts: program code.
+
+02. The second job item will be here
